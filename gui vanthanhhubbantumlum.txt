@@ -154,7 +154,7 @@ function Library:CreateWindow(hubname)
     YT_Logo.BorderSizePixel = 0
     YT_Logo.Position = UDim2.new(0, 5, 0, 1)
     YT_Logo.Size = UDim2.new(0, 23, 0, 23)
-    YT_Logo.Image = "http://www.roblox.com/asset/?id=81127365331139"
+    YT_Logo.Image = "http://www.roblox.com/asset/?id=135675485073908"
 
     YT_Title.Name = "YT_Title"
     YT_Title.Parent = YTB
@@ -227,8 +227,8 @@ function Library:CreateWindow(hubname)
         end
     end)
 
-    List_Tile.Name = "List_Tile"
-    List_Tile.Parent = Body
+    List_Tile.Name = "Nguyen kiet"
+    List_Tile.Parent = Version 2
     List_Tile.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
     List_Tile.BorderColor3 = Color3.fromRGB(0, 0, 0)
     List_Tile.BorderSizePixel = 0
