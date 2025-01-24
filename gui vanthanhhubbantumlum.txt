@@ -100,7 +100,7 @@ function Library:CreateWindow(hubname)
     Body_Corner.Name = "Body_Corner"
     Body_Corner.Parent = Body
 
-    Title_Hub.Name = "Title_Hub"
+    Title_Hub.Name = "Nguyen kiet"
     Title_Hub.Parent = Body
     Title_Hub.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
     Title_Hub.BackgroundTransparency = 1.000
@@ -156,7 +156,7 @@ function Library:CreateWindow(hubname)
     YT_Logo.Size = UDim2.new(0, 23, 0, 23)
     YT_Logo.Image = "http://www.roblox.com/asset/?id=135675485073908"
 
-    YT_Title.Name = "YT_Title"
+    YT_Title.Name = "Nguyen kiet"
     YT_Title.Parent = YTB
     YT_Title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
     YT_Title.BackgroundTransparency = 1.000
